@@ -29,13 +29,13 @@ http://socsurvivalguide.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/MiguelLamas/week-project-back-end-soc-survival-guide
+  git clone https://github.com/MiguelLamas/week-project-front-end-soc-survival-guide
 ```
 
 Go to the project directory
 
 ```bash
-  cd week-project-back-end-soc-survival-guide
+  cd week-project-front-end-soc-survival-guide
 ```
 
 Install dependencies
