@@ -6,7 +6,7 @@ quotes, a Mindset page to motivate students, and a Self Care page with a timer y
 and when trying to keep active through suggested exercise activities.
 
 To work efficiently, this must hook up to a Back-End Server found in this repository:
-https://github.com/SchoolOfCode/w9_backend-project-nott-in-london.git
+https://github.com/MiguelLamas/week-project-back-end-soc-survival-guide.git
 
 
 ## API Reference
@@ -29,13 +29,13 @@ http://socsurvivalguide.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/SchoolOfCode/w9_frontend-project-nott-in-london
+  git clone https://github.com/MiguelLamas/week-project-back-end-soc-survival-guide
 ```
 
 Go to the project directory
 
 ```bash
-  cd w9_frontend-project-nott-in-london
+  cd week-project-back-end-soc-survival-guide
 ```
 
 Install dependencies
